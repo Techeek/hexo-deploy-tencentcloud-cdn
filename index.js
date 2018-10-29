@@ -1,0 +1,1 @@
+hexo.extend.deployer.register('hexo-deploy-TencentCloud-CDN', require('./libs/push'));
