@@ -1,12 +1,12 @@
 {
   "name": "hexo-deploy-tencentcloud-cdn",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Each time you deploy hexo automatically update Tencent Cloud CDN",
   "main": "index",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/huiwang/hexo-baidu-url-submit.git"
+    "url": "https://github.com/Techeek/hexo-deploy-tencentcloud-cdn.git"
   },
   "keywords": [
     "hexo",
